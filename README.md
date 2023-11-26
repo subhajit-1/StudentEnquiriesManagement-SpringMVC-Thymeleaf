@@ -34,7 +34,7 @@ The project is structured as follows:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/subhajit-1/AIT-StudentEnqiries-App_2nd_mini_Project.git
+   git clone https://github.com/subhajit-1/StudentEnquiriesManagement-SpringMVC-Thymeleaf.git
    ```
 
 2. Open the project in your preferred IDE.
