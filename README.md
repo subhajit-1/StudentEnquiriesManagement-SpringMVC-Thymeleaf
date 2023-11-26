@@ -1,4 +1,4 @@
-# AIT Student Inquiries App - 2nd Mini Project
+# StudentEnquiriesManagement-SpringMVC-Thymeleaf
 
 ## Overview
 
